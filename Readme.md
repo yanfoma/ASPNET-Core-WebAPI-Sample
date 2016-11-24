@@ -6,19 +6,19 @@ This repository contains a controller which is dealing with houses. You can GET/
 
 Hope this helps.
 
-See the examples here: 
+See the examples here:
 
 ## GET all houses
 
 ``` http://localhost:29435/api/house ```
 
-![ASPNETCOREWebAPIGET](./_gitAssets/get.jpg)
+![ASPNETCOREWebAPIGET](./ReadmeImages/get.jpg)
 
 ## GET single house
 
 ``` http://localhost:29435/api/house/1 ```
 
-![ASPNETCOREWebAPIGET](./_gitAssets/getSingle.jpg)
+![ASPNETCOREWebAPIGET](./ReadmeImages/getSingle.jpg)
 
 ## POST a house
 
@@ -32,7 +32,7 @@ See the examples here:
   }
 ```
 
-![ASPNETCOREWebAPIGET](./_gitAssets/post.jpg)
+![ASPNETCOREWebAPIGET](./ReadmeImages/post.jpg)
 
 ## PUT a house
 
@@ -47,7 +47,7 @@ See the examples here:
 }
 ```
 
-![ASPNETCOREWebAPIGET](./_gitAssets/put.jpg)
+![ASPNETCOREWebAPIGET](./ReadmeImages/put.jpg)
 
 
 ## PATCH a house
@@ -60,11 +60,11 @@ See the examples here:
 ]
 ```
 
-![ASPNETCOREWebAPIGET](./_gitAssets/patch.jpg)
+![ASPNETCOREWebAPIGET](./ReadmeImages/patch.jpg)
 
 ## DELETE a house
 
 ``` http://localhost:29435/api/house ```
 
 
-![ASPNETCOREWebAPIGET](./_gitAssets/delete.jpg)
+![ASPNETCOREWebAPIGET](./ReadmeImages/delete.jpg)
